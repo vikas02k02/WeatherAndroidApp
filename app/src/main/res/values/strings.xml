@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="welcome_to_the_app">Welcome to the app</string>
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="enter_country_code_optional">Enter Country Code (Optional)</string>
+    <string name="get">GET</string>
+    <string name="kolkata">Kolkata</string>
+    <string name="weather_update">Weather Update</string>
+    <string name="nothing_new">nothing new</string>
+    <string name="output">Output</string>
+</resources>
